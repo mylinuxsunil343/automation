@@ -1,2 +1,0 @@
-password="Splunk"
-Licanse_Server="https://www.google.com"
