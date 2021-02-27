@@ -17,4 +17,4 @@ df
 echo "------------------------CPU Info----------------------------"
 cat /proc/cpuinfo
 echo "------------------------------------------------------------" 
-echo "This is going completed now"
+echo "This is going complete now"
